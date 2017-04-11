@@ -2,6 +2,8 @@
 
 Nu la jag till lite extra och nu vill jag ladda ner.
 
+Och nu tog jag bort
+
 ********************
 
 You can use the [editor on GitHub](https://github.com/rickardlindholm/rickardlindholm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
