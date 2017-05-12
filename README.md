@@ -1,6 +1,6 @@
 ## Contents of my Git
 
-- ANM
+- Advanced Network Management
     - Perl
     - PHP
     - MYSQL
