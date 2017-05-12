@@ -1,10 +1,10 @@
 ## Contents:
 
 - ANM
-    -Perl
-    -PHP
-    -MYSQL
-    -SNMP
+    - Perl
+    - PHP
+    - MYSQL
+    - SNMP
 - Docker
 - Assembly AT&T
     - Filesystem
