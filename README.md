@@ -15,5 +15,6 @@ Born in Stockholm, Sweden. I do fancy adventures, IT and sports.
 # History
 - MSc Telecommunication
 ## Knowledge
+- Networking, Programming, Project Management & Wireless Communications
 ### Linkedin
 https://www.linkedin.com/in/rickard-lindholm/
