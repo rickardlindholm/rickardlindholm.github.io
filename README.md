@@ -1,16 +1,12 @@
 ## Contents:
 
-1 rars
-2 ara
-3 aeda
-
-1 ANM
-    - Perl
-    - PHP
-    - MYSQL
-    - SNMP
-2 Docker
-3 Assembly AT&T
+- ANM
+    -Perl
+    -PHP
+    -MYSQL
+    -SNMP
+- Docker
+- Assembly AT&T
     - Filesystem
 
 ### Who am I?
