@@ -12,12 +12,8 @@
 ### Who am I?
 Born in Stockholm, Sweden. I do fancy adventures, IT and sports.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+# History
+- MSc Telecommunication
+## Knowledge
+### Linkedin
+https://www.linkedin.com/in/rickard-lindholm/
