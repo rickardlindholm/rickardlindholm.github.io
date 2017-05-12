@@ -10,7 +10,7 @@
     - Filesystem
 
 ### Who am I?
-Swede which fancies adventures, IT and sports.
+Born in Stockholm, Sweden. I do fancy adventures, IT and sports.
 
 ```markdown
 Syntax highlighted code block
